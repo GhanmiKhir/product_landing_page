@@ -1,0 +1,25 @@
+{
+  "name": "product_landing_page",
+  "version": "1.0.0",
+  "description": "\"this is a landing page for a product\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GhanmiKhir/product_landing_page.git"
+  },
+  "keywords": [
+    "product",
+    "landing",
+    "page",
+    "freecodecamp"
+  ],
+  "author": "ghanmi khir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GhanmiKhir/product_landing_page/issues"
+  },
+  "homepage": "https://github.com/GhanmiKhir/product_landing_page#readme"
+}
